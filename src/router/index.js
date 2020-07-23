@@ -8,23 +8,49 @@ const routes = [
   {
     path: "/",
     name: "Home",
-    component: Home
+    component: Home,
+    meta: {
+      title: "Home - IX42"
+    }
   },
   {
-    path: "/about",
-    name: "About",
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () =>
-      import(/* webpackChunkName: "about" */ "../views/About.vue")
+    path: "/policy",
+    name: "Policy",
+    component: () => import("../views/Policy.vue"),
+    meta: {
+      title: "Policy - IX42"
+    }
+  },
+  {
+    path: "/stats",
+    name: "Stats",
+    component: () => import("../views/Stats.vue"),
+    meta: {
+      title: "Stats - IX42"
+    }
+  },
+  {
+    path: "/members",
+    name: "Members",
+    component: () => import("../views/Members.vue"),
+    meta: {
+      title: "Members - IX42"
+    }
   }
 ];
 
 const router = new VueRouter({
-  mode: "history",
+  //mode: "history",
   base: process.env.BASE_URL,
-  routes
+  routes,
+
+  scrollBehavior(to, from, savedPosition) {
+    if (savedPosition) {
+      return savedPosition;
+    } else {
+      return { x: 0, y: 0 };
+    }
+  }
 });
 
 export default router;
