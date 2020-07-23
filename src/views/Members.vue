@@ -4,66 +4,13 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-10 mx-auto">
-            <h2>IX42 Members</h2>
+            <h2>IX42 Las Vegas Members</h2>
             <h3>{{ memb["2"].name }}</h3>
-            <b-table
-              striped
-              bordered
-              hover
-              :busy="table_loading"
-              :fields="['name', 'asnum', 'policy', 'since']"
-              :items="memb['2'].members"
-            >
-              <template v-slot:cell(name)="data">
-                <a :href="data.item.url"
-                  >{{ data.value }} &nbsp;
-                  <b-badge pill variant="info">{{
-                    data.item.count
-                  }}</b-badge></a
-                >
-              </template>
-              <template v-slot:cell(policy)="data">
-                <b-badge :variant="policy_color(data.value)">{{
-                  data.value
-                }}</b-badge>
-              </template>
-              <template v-slot:table-busy>
-                <div class="text-center text-danger my-2">
-                  <b-spinner class="align-middle"></b-spinner>
-                  <strong>Loading...</strong>
-                </div>
-              </template>
-            </b-table>
-            <hr />
+            <p>{{ memb["2"].descr }}</p>
+            <IXPTable :table_loading="table_loading" :dat="memb['2'].members" />
             <h3>{{ memb["1"].name }}</h3>
-            <b-table
-              striped
-              bordered
-              hover
-              :busy="table_loading"
-              :fields="['name', 'asnum', 'policy', 'since']"
-              :items="memb['1'].members"
-            >
-              <template v-slot:cell(name)="data">
-                <a :href="data.item.url"
-                  >{{ data.value }} &nbsp;
-                  <b-badge pill variant="info">{{
-                    data.item.count
-                  }}</b-badge></a
-                >
-              </template>
-              <template v-slot:cell(policy)="data">
-                <b-badge :variant="policy_color(data.value)">{{
-                  data.value
-                }}</b-badge>
-              </template>
-              <template v-slot:table-busy>
-                <div class="text-center text-danger my-2">
-                  <b-spinner class="align-middle"></b-spinner>
-                  <strong>Loading...</strong>
-                </div>
-              </template>
-            </b-table>
+            <p>{{ memb["1"].descr }}</p>
+            <IXPTable :table_loading="table_loading" :dat="memb['1'].members" />
           </div>
         </div>
       </div>
@@ -74,9 +21,7 @@
         <div class="row">
           <div class="col-lg-8 mx-auto">
             <h2>Any Questions ?</h2>
-            <p class="lead">
-              You can inquiry our tech support.
-            </p>
+            <p class="lead">You can inquiry our tech support.</p>
             <div class="col-md-4 mb-5">
               <address>
                 <abbr title="Email">E:</abbr>
@@ -91,33 +36,29 @@
 </template>
 
 <script>
+import IXPTable from "@/components/Members/IXPTable";
+
 export default {
   data: () => ({
     table_loading: true,
     memb: {
       "1": {
         name: "DN42",
+        descr:
+          "Here is the list of members participate in IX42 Las Vegas for DN42, a distributed and experimental network.",
         members: []
       },
       "2": {
-        name: "Clearnet",
+        name: "Internet",
+        descr: "Here is the list of members participate in IX42 Las Vegas.",
         members: []
       }
     }
   }),
+  components: { IXPTable },
   methods: {
     toggle_loading: function(ld) {
       this.table_loading = ld;
-    },
-    policy_color: function(policy) {
-      switch (policy) {
-        case "open":
-          return "success";
-        case "selective":
-          return "warning";
-        default:
-          return "default";
-      }
     }
   },
   mounted: function() {

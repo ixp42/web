@@ -16,7 +16,6 @@
           <b-nav-item-dropdown text="Services" right>
             <b-dropdown-item to="/policy">Policy</b-dropdown-item>
             <b-dropdown-item to="/stats">Stats</b-dropdown-item>
-            <b-dropdown-item to="/loa">LoA Template</b-dropdown-item>
             <b-dropdown-item to="/prices">Prices</b-dropdown-item>
           </b-nav-item-dropdown>
           <b-nav-item href="https://portal.ix42.org">Portal</b-nav-item>

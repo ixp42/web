@@ -36,6 +36,14 @@ const routes = [
     meta: {
       title: "Members - IX42"
     }
+  },
+  {
+    path: "/prices",
+    name: "Prices",
+    component: () => import("../views/Prices.vue"),
+    meta: {
+      title: "Prices - IX42"
+    }
   }
 ];
 

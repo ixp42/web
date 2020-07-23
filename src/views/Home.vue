@@ -1,16 +1,18 @@
 <template>
   <div class="home">
-    <header class="bg-primary text-white">
+    <header class="text-white header-pattern">
       <div class="container text-center">
         <h1>Internet eXchange 42</h1>
-        <p class="lead">Affordable & Efficient Interconnections</p>
+        <p class="lead pb-5">Affordable & Efficient Interconnections</p>
         <b-button
           variant="outline-light"
           size="lg"
           href="https://forms.gle/T6FzLAWGvp9suu4b6"
           >Join Now</b-button
         >
-        <b-button variant="light" size="lg">Learn More</b-button>
+        <b-button variant="light" size="lg" v-scroll-to="'#about'"
+          >Learn More</b-button
+        >
       </div>
     </header>
 
@@ -37,7 +39,20 @@
         </div>
       </div>
     </section>
-
+    <section>
+      <div class="container">
+        <b-row>
+          <b-col col="12" md="6" lg="3" align="center">
+            <h1 class="mb-3">1</h1>
+            <p>Peering location</p>
+          </b-col>
+          <b-col col="12" md="6" lg="3" align="center">
+            <h1 class="mb-3">Free</h1>
+            <p>Peering Fee</p>
+          </b-col>
+        </b-row>
+      </div>
+    </section>
     <section>
       <div class="container">
         <div class="row">
@@ -99,7 +114,38 @@ section {
   padding: 100px 0;
 }
 
-.btn + .btn {
-  margin-inline: 15px;
+header button {
+  margin-inline-start: 15px;
+  margin-inline-end: 15px;
+}
+
+.header-pattern {
+  --c: rgba(255, 255, 255, 0.2);
+  --t: transparent;
+  background-image: repeating-linear-gradient(
+      45deg,
+      var(--t) 0,
+      var(--t) 32px,
+      var(--c) 32px,
+      var(--c) 44px,
+      var(--t) 44px,
+      var(--t) 56px,
+      var(--c) 56px,
+      var(--c) 68px,
+      var(--t) 0
+    ),
+    repeating-linear-gradient(
+      -45deg,
+      var(--t) 0,
+      var(--t) 32px,
+      var(--c) 32px,
+      var(--c) 44px,
+      var(--t) 44px,
+      var(--t) 56px,
+      var(--c) 56px,
+      var(--c) 68px,
+      var(--t) 0
+    ),
+    linear-gradient(to bottom left, #095353, #2e0e52);
 }
 </style>
