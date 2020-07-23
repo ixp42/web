@@ -22,6 +22,14 @@ const routes = [
     }
   },
   {
+    path: "/rs-policy",
+    name: "Policy",
+    component: () => import("../views/RSPolicy.vue"),
+    meta: {
+      title: "RS Policy - IX42"
+    }
+  },
+  {
     path: "/stats",
     name: "Stats",
     component: () => import("../views/Stats.vue"),

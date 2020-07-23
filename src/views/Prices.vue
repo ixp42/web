@@ -21,7 +21,6 @@
                 <li>RS available</li>
                 <li>Support tunnel protocols</li>
                 <li>Multiple peering locations</li>
-                <li>Crossconnect to DN42, NeoNetwork</li>
               </ul>
               <a
                 type="button"

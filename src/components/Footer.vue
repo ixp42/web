@@ -18,6 +18,9 @@
               <router-link to="/policy">Policy</router-link>
             </li>
             <li>
+              <router-link to="/rs-policy">Policy</router-link>
+            </li>
+            <li>
               <router-link to="/stats">Stats</router-link>
             </li>
             <li>

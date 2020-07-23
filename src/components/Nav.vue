@@ -15,6 +15,7 @@
           <b-nav-item to="/members">Members </b-nav-item>
           <b-nav-item-dropdown text="Services" right>
             <b-dropdown-item to="/policy">Policy</b-dropdown-item>
+            <b-dropdown-item to="/rs-policy">RS Policy</b-dropdown-item>
             <b-dropdown-item to="/stats">Stats</b-dropdown-item>
             <b-dropdown-item to="/prices">Prices</b-dropdown-item>
           </b-nav-item-dropdown>

@@ -27,7 +27,6 @@
               center-neutral Internet Exchanges.
             </p>
             <ul>
-              <li>Interconnection with Clearnet, DN42 and NeoNetwork.</li>
               <li>Support both physical and remote peering.</li>
               <li>Advanced RS with backup support.</li>
               <li>
@@ -42,13 +41,21 @@
     <section>
       <div class="container">
         <b-row>
-          <b-col col="12" md="6" lg="3" align="center">
-            <h1 class="mb-3">1</h1>
-            <p>Peering location</p>
+          <b-col cols="12" md="6" lg="3" align="center">
+            <h1 class="mb-3">3</h1>
+            <p>Locations</p>
           </b-col>
-          <b-col col="12" md="6" lg="3" align="center">
+          <b-col cols="12" md="6" lg="3" align="center">
             <h1 class="mb-3">Free</h1>
             <p>Peering Fee</p>
+          </b-col>
+          <b-col cols="12" md="6" lg="3" align="center">
+            <h1 class="mb-3">10G+</h1>
+            <p>Capacity</p>
+          </b-col>
+          <b-col cols="12" md="6" lg="3" align="center">
+            <h1 class="mb-3">24x7</h1>
+            <p>Tech Support</p>
           </b-col>
         </b-row>
       </div>
@@ -80,7 +87,7 @@
           <div class="col-lg-8 mx-auto">
             <h2>Contact us</h2>
             <p class="lead">
-              Internet eXchange 42 is founded and sponsored by
+              Internet eXchange 42 is sponsored and operated by
               <a href="https://strexp.net">Strategic Explorations</a>.
             </p>
             <div class="col-md-4 mb-5">
