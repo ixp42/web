@@ -26,7 +26,7 @@
                 type="button"
                 class="btn btn-lg btn-block btn-outline-primary"
                 href="https://forms.gle/T6FzLAWGvp9suu4b6"
-                >Register Now</a
+                >Request Now</a
               >
             </div>
           </div>

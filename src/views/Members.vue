@@ -4,13 +4,13 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-10 mx-auto">
-            <h2>IX42 Las Vegas Members</h2>
+            <h2>IX42 Members</h2>
             <h3>{{ memb["2"].name }}</h3>
             <p>{{ memb["2"].descr }}</p>
             <IXPTable :table_loading="table_loading" :dat="memb['2'].members" />
-            <h3>{{ memb["1"].name }}</h3>
+            <!-- <h3>{{ memb["1"].name }}</h3>
             <p>{{ memb["1"].descr }}</p>
-            <IXPTable :table_loading="table_loading" :dat="memb['1'].members" />
+            <IXPTable :table_loading="table_loading" :dat="memb['1'].members" /> -->
           </div>
         </div>
       </div>
@@ -49,7 +49,7 @@ export default {
         members: []
       },
       "2": {
-        name: "Internet",
+        name: "IX42 Las Vegas",
         descr: "Here is the list of members participate in IX42 Las Vegas.",
         members: []
       }
@@ -77,6 +77,7 @@ export default {
                 asnum: mb.asnum,
                 policy: mb.peering_policy,
                 since: mb.member_since,
+                rs: vl.ipv6.routeserver,
                 count: 1
               };
               if (

@@ -13,9 +13,9 @@
                   fluid-grow
                   src="https://graph.ix42.org/switches/003/switch-aggregate-00003-bits-day.png"
                 />
-              </div>
+                <!-- </div>
               <div class="col-sm">
-                <h3>Las Vegas DN42</h3>
+                <h3>Las Vegas DN42</h3> -->
                 <b-img-lazy
                   fluid-grow
                   src="https://graph.ix42.org/switches/004/switch-aggregate-00004-bits-day.png"
