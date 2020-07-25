@@ -109,6 +109,14 @@
                 For Internet, the minimum prefix announced should be /24 for
                 IPv4 and /48 for IPv6.
               </li>
+              <li>
+                For a peer established through a physical connection, the
+                Round-Trip Time between the peer and RS shall not exceed 20ms.
+              </li>
+              <li>
+                For the peer established through a tunnel, the Round-Trip Time
+                between the peer and the RS shall not exceed 40ms.
+              </li>
             </ol>
             <hr />
             <h3>Technical Requirements</h3>
@@ -137,7 +145,9 @@
               </li>
             </ol>
             <hr />
-            <p><small>*IX42 Policy is forked from KCIX policy.</small></p>
+            <p>
+              <small>*IX42 Policy is forked from KCIX policy.</small>
+            </p>
           </div>
         </div>
       </div>
@@ -148,9 +158,7 @@
         <div class="row">
           <div class="col-lg-8 mx-auto">
             <h2>Any Questions ?</h2>
-            <p class="lead">
-              You can inquiry our policy support.
-            </p>
+            <p class="lead">You can inquiry our policy support.</p>
             <div class="col-md-4 mb-5">
               <address>
                 <abbr title="Email">E:</abbr>
