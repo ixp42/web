@@ -46,6 +46,14 @@ const routes = [
     }
   },
   {
+    path: "/dn42",
+    name: "DN42",
+    component: () => import("../views/DN42.vue"),
+    meta: {
+      title: "DN42 - IX42"
+    }
+  },
+  {
     path: "/prices",
     name: "Prices",
     component: () => import("../views/Prices.vue"),

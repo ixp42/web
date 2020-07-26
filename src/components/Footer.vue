@@ -18,7 +18,7 @@
               <router-link to="/policy">Policy</router-link>
             </li>
             <li>
-              <router-link to="/rs-policy">Policy</router-link>
+              <router-link to="/rs-policy">RS Policy</router-link>
             </li>
             <li>
               <router-link to="/stats">Stats</router-link>
@@ -33,12 +33,16 @@
         </div>
 
         <div class="col-xs-6 col-md-3">
-          <h6>Contact</h6>
+          <h6>Info</h6>
           <p class="text-justify">
             Email:
             <a href="mailto:info@ix42.org">info@ix42.org</a>
             <br />Telegram:
             <a href="https://t.me/ixp42">@ixp42</a>
+            <br />PeeringDB:
+            <a href="https://www.peeringdb.com/ix/3226">3226</a>
+            <br />IX-F IXP ID:
+            <a href="https://ixpdb.euro-ix.net/en/ixpdb/ixp/878/">878</a>
           </p>
         </div>
       </div>

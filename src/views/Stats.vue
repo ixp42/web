@@ -8,17 +8,17 @@
             <br />
             <div class="row">
               <div class="col-sm">
-                <h3>Las Vegas</h3>
-                <b-img-lazy
-                  fluid-grow
-                  src="https://graph.ix42.org/switches/003/switch-aggregate-00003-bits-day.png"
-                />
-                <!-- </div>
-              <div class="col-sm">
-                <h3>Las Vegas DN42</h3> -->
+                <h3>Las Vegas Main Switch</h3>
                 <b-img-lazy
                   fluid-grow
                   src="https://graph.ix42.org/switches/004/switch-aggregate-00004-bits-day.png"
+                />
+              </div>
+              <div class="col-sm">
+                <h3>Las Vegas DN42 Switch</h3>
+                <b-img-lazy
+                  fluid-grow
+                  src="https://graph.ix42.org/switches/003/switch-aggregate-00003-bits-day.png"
                 />
               </div>
             </div>
@@ -32,9 +32,7 @@
         <div class="row">
           <div class="col-lg-8 mx-auto">
             <h2>Any Questions ?</h2>
-            <p class="lead">
-              You can inquiry our tech support.
-            </p>
+            <p class="lead">You can inquiry our tech support.</p>
             <div class="col-md-4 mb-5">
               <address>
                 <abbr title="Email">E:</abbr>
