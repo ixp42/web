@@ -75,6 +75,15 @@
                   />
                 </a>
               </div>
+              <div class="col-lg-3 col-md-4 col-sm-6 text-center">
+                <h3>
+                  <a
+                    href="http://moecast.dn42"
+                    style="text-decoration: inherit; color:inherit;"
+                    >Moecast Network</a
+                  >
+                </h3>
+              </div>
             </div>
           </div>
         </div>

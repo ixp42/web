@@ -11,14 +11,30 @@
                 <h3>Las Vegas Main Switch</h3>
                 <b-img-lazy
                   fluid-grow
-                  src="https://graph.ix42.org/switches/004/switch-aggregate-00004-bits-day.png"
+                  src="https://graph.ix42.org/ixp/ixp001-bits-day.png"
                 />
               </div>
               <div class="col-sm">
                 <h3>Las Vegas DN42 Switch</h3>
                 <b-img-lazy
                   fluid-grow
-                  src="https://graph.ix42.org/switches/003/switch-aggregate-00003-bits-day.png"
+                  src="https://graph.ix42.org/ixp/ixp002-bits-day.png"
+                />
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-sm">
+                <h3>Singapore Main Switch</h3>
+                <b-img-lazy
+                  fluid-grow
+                  src="https://graph.ix42.org/ixp/ixp003-bits-day.png"
+                />
+              </div>
+              <div class="col-sm">
+                <h3>Singapore DN42 Switch</h3>
+                <b-img-lazy
+                  fluid-grow
+                  src="https://graph.ix42.org/ixp/ixp006-bits-day.png"
                 />
               </div>
             </div>

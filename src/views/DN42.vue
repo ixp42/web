@@ -15,17 +15,16 @@
               <a href="https://wiki.dn42.dev">wiki</a> page.
             </p>
             <p>
-              <b
-                >Attention: DN42 Peers are not members. All IX42 members must
-                have public ASN and prefies annonced to IX42.</b
-              >
+              <b>
+                Attention: DN42 Peers are not members. All IX42 members must
+                have public ASN and prefies annonced to IX42.
+              </b>
             </p>
-            <h3>{{ memb["1"].name }}</h3>
-            <p>{{ memb["1"].descr }}</p>
-            <IXPTable :table_loading="table_loading" :dat="memb['1'].members" />
-            <!-- <h3>{{ memb["1"].name }}</h3>
-            <p>{{ memb["1"].descr }}</p>
-            <IXPTable :table_loading="table_loading" :dat="memb['1'].members" /> -->
+            <div v-for="mm in memb" :key="mm.name">
+              <h3>{{ mm.name }}</h3>
+              <p>{{ mm.descr }}</p>
+              <IXPTable :table_loading="table_loading" :dat="mm.members" />
+            </div>
           </div>
         </div>
       </div>
@@ -63,9 +62,10 @@ export default {
           "Here is the list of peers participate in IX42 Las Vegas for DN42, a distributed and experimental network.",
         members: []
       },
-      "2": {
-        name: "IX42 Las Vegas",
-        descr: "Here is the list of members participate in IX42 Las Vegas.",
+      "6": {
+        name: "DN42 Singapore",
+        descr:
+          "Here is the list of peers participate in IX42 Singapore for DN42, a distributed and experimental network.",
         members: []
       }
     }
@@ -86,28 +86,30 @@ export default {
         response.data.member_list.forEach(mb => {
           mb.connection_list.forEach(conn => {
             conn.vlan_list.forEach(vl => {
-              var mbobj = {
-                name: mb.name,
-                url: mb.url,
-                asnum: mb.asnum,
-                policy: mb.peering_policy,
-                since: mb.member_since,
-                rs: vl.ipv6.routeserver,
-                count: 1
-              };
-              if (
-                this.memb[vl.vlan_id.toString()].members.findIndex(
-                  x => x.asnum == mb.asnum
-                ) == -1 &&
-                mb.member_type != "ixp"
-              ) {
-                this.memb[vl.vlan_id.toString()].members.push(mbobj);
-              } else if (mb.member_type != "ixp") {
-                this.memb[vl.vlan_id.toString()].members[
+              if (this.memb[vl.vlan_id.toString()]) {
+                var mbobj = {
+                  name: mb.name,
+                  url: mb.url,
+                  asnum: mb.asnum,
+                  policy: mb.peering_policy,
+                  since: mb.member_since,
+                  rs: vl.ipv6.routeserver,
+                  count: 1
+                };
+                if (
                   this.memb[vl.vlan_id.toString()].members.findIndex(
                     x => x.asnum == mb.asnum
-                  )
-                ].count++;
+                  ) == -1 &&
+                  mb.member_type != "ixp"
+                ) {
+                  this.memb[vl.vlan_id.toString()].members.push(mbobj);
+                } else if (mb.member_type != "ixp") {
+                  this.memb[vl.vlan_id.toString()].members[
+                    this.memb[vl.vlan_id.toString()].members.findIndex(
+                      x => x.asnum == mb.asnum
+                    )
+                  ].count++;
+                }
               }
             });
           });

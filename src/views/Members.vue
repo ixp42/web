@@ -3,14 +3,10 @@
     <section>
       <div class="container">
         <div class="row">
-          <div class="col-lg-10 mx-auto">
-            <h2>IX42 Members</h2>
-            <h3>{{ memb["2"].name }}</h3>
-            <p>{{ memb["2"].descr }}</p>
-            <IXPTable :table_loading="table_loading" :dat="memb['2'].members" />
-            <!-- <h3>{{ memb["1"].name }}</h3>
-            <p>{{ memb["1"].descr }}</p>
-            <IXPTable :table_loading="table_loading" :dat="memb['1'].members" /> -->
+          <div class="col-lg-10 mx-auto" v-for="mm in memb" :key="mm.name">
+            <h3>{{ mm.name }}</h3>
+            <p>{{ mm.descr }}</p>
+            <IXPTable :table_loading="table_loading" :dat="mm.members" />
           </div>
         </div>
       </div>
@@ -42,15 +38,14 @@ export default {
   data: () => ({
     table_loading: true,
     memb: {
-      "1": {
-        name: "DN42",
-        descr:
-          "Here is the list of members participate in IX42 Las Vegas for DN42, a distributed and experimental network.",
-        members: []
-      },
       "2": {
         name: "IX42 Las Vegas",
         descr: "Here is the list of members participate in IX42 Las Vegas.",
+        members: []
+      },
+      "3": {
+        name: "IX42 Singapore",
+        descr: "Here is the list of members participate in IX42 Singapore.",
         members: []
       }
     }
@@ -71,28 +66,30 @@ export default {
         response.data.member_list.forEach(mb => {
           mb.connection_list.forEach(conn => {
             conn.vlan_list.forEach(vl => {
-              var mbobj = {
-                name: mb.name,
-                url: mb.url,
-                asnum: mb.asnum,
-                policy: mb.peering_policy,
-                since: mb.member_since,
-                rs: vl.ipv6.routeserver,
-                count: 1
-              };
-              if (
-                this.memb[vl.vlan_id.toString()].members.findIndex(
-                  x => x.asnum == mb.asnum
-                ) == -1 &&
-                mb.member_type != "ixp"
-              ) {
-                this.memb[vl.vlan_id.toString()].members.push(mbobj);
-              } else if (mb.member_type != "ixp") {
-                this.memb[vl.vlan_id.toString()].members[
+              if (this.memb[vl.vlan_id.toString()]) {
+                var mbobj = {
+                  name: mb.name,
+                  url: mb.url,
+                  asnum: mb.asnum,
+                  policy: mb.peering_policy,
+                  since: mb.member_since,
+                  rs: vl.ipv6.routeserver,
+                  count: 1
+                };
+                if (
                   this.memb[vl.vlan_id.toString()].members.findIndex(
                     x => x.asnum == mb.asnum
-                  )
-                ].count++;
+                  ) == -1 &&
+                  mb.member_type != "ixp"
+                ) {
+                  this.memb[vl.vlan_id.toString()].members.push(mbobj);
+                } else if (mb.member_type != "ixp") {
+                  this.memb[vl.vlan_id.toString()].members[
+                    this.memb[vl.vlan_id.toString()].members.findIndex(
+                      x => x.asnum == mb.asnum
+                    )
+                  ].count++;
+                }
               }
             });
           });
