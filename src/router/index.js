@@ -54,11 +54,11 @@ const routes = [
     }
   },
   {
-    path: "/prices",
-    name: "Prices",
-    component: () => import("../views/Prices.vue"),
+    path: "/pricing",
+    name: "Pricing",
+    component: () => import("../views/Pricing.vue"),
     meta: {
-      title: "Prices - IX42"
+      title: "Pricing - IX42"
     }
   }
 ];

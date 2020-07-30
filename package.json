@@ -16,6 +16,7 @@
     "vue-scrollto": "^2.18.1"
   },
   "devDependencies": {
+    "@babel/preset-env": "^7.10.4",
     "@vue/cli-plugin-babel": "^4.4.0",
     "@vue/cli-plugin-eslint": "^4.4.0",
     "@vue/cli-plugin-router": "^4.4.0",
