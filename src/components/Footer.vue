@@ -5,7 +5,7 @@
       <div class="row">
         <div class="col-sm-12 col-md-6">
           <h6>Internet eXchange 42</h6>
-          <p class="text-justify">
+          <p>
             Internet eXchange 42 is providing interconnections between various
             networks and autonomous systems.
           </p>
@@ -27,7 +27,7 @@
               <router-link to="/members">Members</router-link>
             </li>
             <li>
-              <router-link to="/prices">Prices</router-link>
+              <router-link to="/pricing">Pricing</router-link>
             </li>
           </ul>
         </div>
@@ -52,8 +52,9 @@
       <div class="row">
         <div class="col-md-8 col-sm-6 col-xs-12">
           <p class="copyright-text">
-            Copyright &copy; 2020 All Rights Reserved by
-            <a href="https://ix42.org">Internet eXchange 42</a>.
+            Copyright &copy; 2020
+            <a href="https://ix42.org">Internet eXchange 42</a>. All Rights
+            Reserved.
           </p>
         </div>
 

@@ -8,7 +8,7 @@
     :items="dat"
   >
     <template v-slot:cell(name)="data">
-      <a :href="data.item.url">
+      <a :href="data.item.url" target="_blank">
         {{ data.value }} &nbsp;
         <b-badge pill variant="info">{{ data.item.count }}</b-badge>
       </a>

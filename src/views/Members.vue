@@ -2,12 +2,15 @@
   <div class="stats">
     <section>
       <div class="container">
-        <div class="row">
-          <div class="col-lg-10 mx-auto" v-for="mm in memb" :key="mm.name">
+        <div class="row" v-if="!error">
+          <div class="col-lg-10 mx-auto" v-for="mm in pops" :key="mm.name">
             <h3>{{ mm.name }}</h3>
             <p>{{ mm.descr }}</p>
             <IXPTable :table_loading="table_loading" :dat="mm.members" />
           </div>
+        </div>
+        <div class="alert alert-danger" role="alert" v-else>
+          Something went wrong.
         </div>
       </div>
     </section>
@@ -37,7 +40,8 @@ import IXPTable from "@/components/Members/IXPTable";
 export default {
   data: () => ({
     table_loading: true,
-    memb: {
+    error: null,
+    pops: {
       "2": {
         name: "IX42 Las Vegas",
         descr: "Here is the list of members participate in IX42 Las Vegas.",
@@ -56,47 +60,47 @@ export default {
       this.table_loading = ld;
     }
   },
-  mounted: function() {
-    this.$axios({
-      method: "get",
-      url:
-        "https://portal.ix42.org/api/v4/member-export/ixf/1.0?ignore_missing_ixfid=1"
-    })
-      .then(response => {
-        response.data.member_list.forEach(mb => {
-          mb.connection_list.forEach(conn => {
-            conn.vlan_list.forEach(vl => {
-              if (this.memb[vl.vlan_id.toString()]) {
-                var mbobj = {
-                  name: mb.name,
-                  url: mb.url,
-                  asnum: mb.asnum,
-                  policy: mb.peering_policy,
-                  since: mb.member_since,
-                  rs: vl.ipv6.routeserver,
-                  count: 1
-                };
-                if (
-                  this.memb[vl.vlan_id.toString()].members.findIndex(
-                    x => x.asnum == mb.asnum
-                  ) == -1 &&
-                  mb.member_type != "ixp"
-                ) {
-                  this.memb[vl.vlan_id.toString()].members.push(mbobj);
-                } else if (mb.member_type != "ixp") {
-                  this.memb[vl.vlan_id.toString()].members[
-                    this.memb[vl.vlan_id.toString()].members.findIndex(
-                      x => x.asnum == mb.asnum
-                    )
-                  ].count++;
-                }
+  async mounted() {
+    try {
+      const res = await this.$axios({
+        method: "get",
+        url:
+          "https://portal.ix42.org/api/v4/member-export/ixf/1.0?ignore_missing_ixfid=1"
+      });
+
+      for (const member of res.data.member_list) {
+        for (const conn of member.connection_list) {
+          for (const vl of conn.vlan_list) {
+            const vlan_id = vl.vlan_id.toString();
+            if (this.pops[vlan_id]) {
+              const mbobj = {
+                name: member.name,
+                url: member.url,
+                asnum: member.asnum,
+                policy: member.peering_policy,
+                since: member.member_since,
+                rs: vl.ipv6.routeserver,
+                count: 1
+              };
+              const memberIndex = this.pops[vlan_id].members.findIndex(
+                x => x.asnum === member.asnum
+              );
+
+              if (memberIndex === -1 && member.member_type !== "ixp") {
+                this.pops[vl.vlan_id.toString()].members.push(mbobj);
+              } else if (member.member_type !== "ixp") {
+                this.pops[vlan_id].members[memberIndex].count++;
               }
-            });
-          });
-        });
-        this.toggle_loading(false);
-      })
-      .catch(error => console.log(error, "error"));
+            }
+          }
+        }
+      }
+
+      this.toggle_loading(false);
+    } catch (e) {
+      this.error = e;
+      console.error(e);
+    }
   }
 };
 </script>
