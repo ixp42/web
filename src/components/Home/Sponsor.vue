@@ -3,9 +3,10 @@
     <div class="text-h3 font-weight-light">Sponsors</div>
     <v-row justify="center">
       <v-col cols="8">
-        <div
-          class="title font-weight-light"
-        >Thanks to the maintenance and sponsors of these companies or individuals, IX42 can maintain efficient and stable operations.</div>
+        <div class="title font-weight-light">
+          Thanks to the maintenance and sponsors of these companies or
+          individuals, IX42 can maintain efficient and stable operations.
+        </div>
       </v-col>
     </v-row>
     <v-row v-for="r in sponsor_list" :key="r.row" justify="center">
@@ -38,5 +39,4 @@ export default {
 };
 </script>
 
-<style>
-</style>
+<style></style>
