@@ -6,28 +6,36 @@
           <v-col cols="12" lg="6">
             <v-responsive class="overflow-visible">
               <div class="text-h3 font-weight-light mb-4">
-                Affordable & Efficient
-                <br />Interconnections
+                {{ $t("title-1") }}
+                <br />
+                {{ $t("title-2") }}
               </div>
-              <p class="font-weight-light">
-                Internet eXchange 42 provides affordable and efficient
-                interconnection services and operates several carrier and data
-                center-neutral Internet Exchanges.
-              </p>
+              <p class="font-weight-light" v-t="'intro'" />
 
               <div
                 class="d-flex flex-wrap justify-left justify-md-start align-center mx-n2"
               >
-                <v-btn light class="primary--text ma-2" elevation="6" x-large>
-                  <v-icon left>mdi-transit-connection-variant</v-icon>Get
-                  Connected
+                <v-btn
+                  light
+                  class="primary--text ma-2"
+                  elevation="6"
+                  x-large
+                  href="https://ix42.org/connect"
+                >
+                  <v-icon left>mdi-transit-connection-variant</v-icon>
+                  {{ $t("connect") }}
                 </v-btn>
-                <v-btn dark outlined class="ma-2" elevation="6" x-large>
-                  <v-icon left>mdi-account-multiple</v-icon>About Us
+                <v-btn
+                  dark
+                  outlined
+                  class="ma-2"
+                  elevation="6"
+                  x-large
+                  @click="$vuetify.goTo('#home-about')"
+                >
+                  <v-icon left>mdi-account-multiple</v-icon>
+                  {{ $t("about") }}
                 </v-btn>
-                <p class="font-italic font-weight-light">
-                  Currently support Las Vegas and Singapore.
-                </p>
               </div>
             </v-responsive>
           </v-col>
@@ -52,3 +60,22 @@ export default {
 </script>
 
 <style></style>
+
+<i18n>
+{
+  "en": {
+    "title-1": "Affordable & Efficient",
+    "title-2": "Interconnections",
+    "intro": "Internet eXchange 42 provides affordable and efficient interconnection services and operates several carrier and data center-neutral Internet Exchanges.",
+    "connect": "Get Connected",
+    "about": "About Us"
+  },
+  "zh": {
+    "title-1": "经济且高效的",
+    "title-2": "互联解决方案",
+    "intro": "Internet eXchange 42 提供经济且高效的的网络互联服务，并运营多个与运营商和数据中心无关的互联网交换中心。",
+    "connect": "立即接入",
+    "about": "关于我们"
+  }
+}
+</i18n>

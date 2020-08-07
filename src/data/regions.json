@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Las Vegas",
+        "ixpid": 1,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Welcome_to_Fabulous_Las_Vegas_sign.jpg/1024px-Welcome_to_Fabulous_Las_Vegas_sign.jpg",
+        "features": [
+            "LAN",
+            "Zerotier",
+            "VXLAN"
+        ],
+        "stat": "https://graph.ix42.org/ixp/ixp001-bits",
+        "code": "las",
+        "active": true
+    },
+    {
+        "name": "Singapore",
+        "ixpid": 4,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Merlion_and_the_Singapore_Skyline.JPG/1024px-Merlion_and_the_Singapore_Skyline.JPG",
+        "features": [
+            "Zerotier"
+        ],
+        "stat": "https://graph.ix42.org/ixp/ixp002-bits",
+        "code": "sg",
+        "active": true
+    },
+    {
+        "name": "Tokyo",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tokyo_Tower_and_around_Skyscrapers.jpg/906px-Tokyo_Tower_and_around_Skyscrapers.jpg",
+        "features": [
+            "Coming Soon"
+        ],
+        "code": "tyo",
+        "active": false
+    }
+]
