@@ -23,6 +23,7 @@
 <script>
 import strexp_img from "@/assets/sponsors/strexp.png";
 import moecast_img from "@/assets/sponsors/moecast.png";
+import sunnet_img from "@/assets/sponsors/sunnet.png";
 
 export default {
   data: () => ({
@@ -42,6 +43,15 @@ export default {
           {
             img: moecast_img,
             url: "http://moecast.dn42"
+          }
+        ]
+      },
+      {
+        row: "3",
+        items: [
+          {
+            img: sunnet_img,
+            url: "https://as140936.com"
           }
         ]
       }
