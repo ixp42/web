@@ -40,6 +40,29 @@
           </v-btn>
           <p class="mt-2">{{ $t("services") }}</p>
         </v-col>
+        <v-col
+          cols="12"
+          class="text-center"
+          v-if="'lg4' in item || 'lg6' in item"
+        >
+          <p class="mt-2">{{ $t("lg") }}</p>
+          <v-btn
+            color="primary"
+            class="mx-2"
+            :href="item.lg4"
+            v-if="'lg4' in item"
+          >
+            <v-icon>mdi-find</v-icon> IPv4
+          </v-btn>
+          <v-btn
+            color="primary"
+            class="mx-2"
+            :href="item.lg6"
+            v-if="'lg6' in item"
+          >
+            <v-icon>mdi-find</v-icon> IPv6
+          </v-btn>
+        </v-col>
       </v-row>
     </v-overlay>
   </v-card>
@@ -62,12 +85,14 @@ export default {
   "en": {
     "statistics": "Statistics",
     "nets": "Connected Networks",
-    "services": "Services"
+    "services": "Services",
+    "lg": "Looking Glass"
   },
   "zh": {
     "statistics": "统计",
     "nets": "成员",
-    "services": "服务"
+    "services": "服务",
+    "lg": "看玻璃"
   }
 }
 </i18n>
