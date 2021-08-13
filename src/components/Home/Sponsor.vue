@@ -8,13 +8,18 @@
         <div class="title font-weight-light" v-t="'desc'" />
       </v-col>
     </v-row>
-    <v-row v-for="r in sponsor_list" :key="r.row" justify="center">
+    <v-row justify="center">
       <v-spacer />
-      <v-col v-for="i in r.items" :key="i.img">
-        <a :href="i.url">
-          <v-img :src="i.img" contain max-height="60px"></v-img>
-        </a>
+      <v-col v-for="r in sponsor_list" :key="r.row">
+        <v-row justify="center">
+          <v-col v-for="i in r.items" :key="i.img" :cols="i.width">
+            <a :href="i.url">
+              <v-img :src="i.img" contain max-height="60px"></v-img>
+            </a>
+          </v-col>
+        </v-row>
       </v-col>
+
       <v-spacer />
     </v-row>
   </v-container>
@@ -24,6 +29,7 @@
 import strexp_img from "@/assets/sponsors/strexp.png";
 import moecast_img from "@/assets/sponsors/moecast.png";
 import sunnet_img from "@/assets/sponsors/sunnet.png";
+import fixmix_img from "@/assets/sponsors/fixmix.png";
 
 export default {
   data: () => ({
@@ -33,7 +39,8 @@ export default {
         items: [
           {
             img: strexp_img,
-            url: "https://strexp.net"
+            url: "https://strexp.net",
+            width: 12
           }
         ]
       },
@@ -42,16 +49,18 @@ export default {
         items: [
           {
             img: moecast_img,
-            url: "http://moecast.dn42"
-          }
-        ]
-      },
-      {
-        row: "3",
-        items: [
+            url: "http://moecast.dn42",
+            width: 3
+          },
           {
             img: sunnet_img,
-            url: "https://as140936.com"
+            url: "https://as140936.com",
+            width: 3
+          },
+          {
+            img: fixmix_img,
+            url: "https://as211876.net",
+            width: 3
           }
         ]
       }
