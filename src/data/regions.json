@@ -31,6 +31,15 @@
     "active": true
   },
   {
+    "name": "Dusseldorf",
+    "ixpid": 8,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/D%C3%BCsseldorf_Panorama.jpg/640px-D%C3%BCsseldorf_Panorama.jpg",
+    "features": ["Zerotier", "VXLAN"],
+    "stat": "",
+    "code": "dus",
+    "active": true
+  },
+  {
     "name": "Tokyo",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tokyo_Tower_and_around_Skyscrapers.jpg/906px-Tokyo_Tower_and_around_Skyscrapers.jpg",
     "features": ["Coming Soon"],
