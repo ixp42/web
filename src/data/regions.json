@@ -31,12 +31,12 @@
     "active": true
   },
   {
-    "name": "Dusseldorf",
+    "name": "Luxembourg",
     "ixpid": 8,
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/D%C3%BCsseldorf_Panorama.jpg/640px-D%C3%BCsseldorf_Panorama.jpg",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e9/LuxembourgCityView.jpg",
     "features": ["Zerotier", "VXLAN"],
     "stat": "",
-    "code": "dus",
+    "code": "lux",
     "active": true
   },
   {
