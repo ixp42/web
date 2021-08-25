@@ -77,7 +77,7 @@ export default {
     this.$axios({
       method: "get",
       url:
-        "https://portal.ix42.org/api/v4/member-export/ixf/1.0?ignore_missing_ixfid=1"
+        "https://export.ix42.org/members.json"
     }).then(response => {
       this.ixpmembers = getIXPMember(response.data, this.region.ixpid);
       this.loading = false;
