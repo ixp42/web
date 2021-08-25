@@ -1,49 +1,52 @@
 [
-  {
-    "name": "Las Vegas",
-    "ixpid": 1,
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Welcome_to_Fabulous_Las_Vegas_sign.jpg/1024px-Welcome_to_Fabulous_Las_Vegas_sign.jpg",
-    "features": ["LAN", "Zerotier", "VXLAN"],
-    "lg6": "https://rs-las-c-6.ix42.org/",
-    "lg4": "https://rs-las-c-4.ix42.org/",
-    "stat": "https://graph.ix42.org/ixp/ixp001-bits",
-    "code": "las",
-    "active": true
-  },
-  {
-    "name": "Singapore",
-    "ixpid": 4,
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Merlion_and_the_Singapore_Skyline.JPG/1024px-Merlion_and_the_Singapore_Skyline.JPG",
-    "features": ["Zerotier", "VXLAN"],
-    "lg6": "https://rs-las-c-6.ix42.org/",
-    "lg4": "https://rs-las-c-4.ix42.org/",
-    "stat": "https://graph.ix42.org/ixp/ixp002-bits",
-    "code": "sg",
-    "active": true
-  },
-  {
-    "name": "New York City",
-    "ixpid": 6,
-    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Goodies_from_Top_of_the_Rock_%28Unsplash%29.jpg",
-    "features": ["Zerotier", "VXLAN"],
-    "stat": "",
-    "code": "nyc",
-    "active": true
-  },
-  {
-    "name": "Luxembourg",
-    "ixpid": 7,
-    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e9/LuxembourgCityView.jpg",
-    "features": ["Zerotier", "VXLAN"],
-    "stat": "",
-    "code": "lux",
-    "active": true
-  },
-  {
-    "name": "Tokyo",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tokyo_Tower_and_around_Skyscrapers.jpg/906px-Tokyo_Tower_and_around_Skyscrapers.jpg",
-    "features": ["Coming Soon"],
-    "code": "tyo",
-    "active": false
-  }
-]
+    {
+      "name": "Las Vegas",
+      "ixpid": 1,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Welcome_to_Fabulous_Las_Vegas_sign.jpg/1024px-Welcome_to_Fabulous_Las_Vegas_sign.jpg",
+      "features": ["LAN", "Zerotier", "VXLAN"],
+      "lg6": "https://rs-las-c-6.ix42.org/",
+      "lg4": "https://rs-las-c-4.ix42.org/",
+      "stat": "https://graph.ix42.org/ixp/ixp001-bits",
+      "code": "las",
+      "active": true
+    },
+    {
+      "name": "Singapore",
+      "ixpid": 4,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Merlion_and_the_Singapore_Skyline.JPG/1024px-Merlion_and_the_Singapore_Skyline.JPG",
+      "features": ["Zerotier", "VXLAN"],
+      "lg6": "https://rs-las-c-6.ix42.org/",
+      "lg4": "https://rs-las-c-4.ix42.org/",
+      "stat": "https://graph.ix42.org/ixp/ixp002-bits",
+      "code": "sg",
+      "active": true
+    },
+    {
+      "name": "New York City",
+      "ixpid": 6,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Goodies_from_Top_of_the_Rock_%28Unsplash%29.jpg",
+      "features": ["Zerotier", "VXLAN"],
+      "stat": "",
+      "code": "nyc",
+      "active": true
+    },
+    {
+      "name": "Luxembourg",
+      "ixpid": 7,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/e9/LuxembourgCityView.jpg",
+      "features": ["Zerotier", "VXLAN"],
+      "lg6": "https://rs-lux-c-6.ix42.org/",
+      "lg4": "https://rs-lux-c-4.ix42.org/",
+      "stat": "",
+      "code": "lux",
+      "active": true
+    },
+    {
+      "name": "Tokyo",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tokyo_Tower_and_around_Skyscrapers.jpg/906px-Tokyo_Tower_and_around_Skyscrapers.jpg",
+      "features": ["Coming Soon"],
+      "code": "tyo",
+      "active": false
+    }
+  ]
+  
