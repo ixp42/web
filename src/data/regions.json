@@ -32,7 +32,7 @@
   },
   {
     "name": "Luxembourg",
-    "ixpid": 8,
+    "ixpid": 7,
     "img": "https://upload.wikimedia.org/wikipedia/commons/e/e9/LuxembourgCityView.jpg",
     "features": ["Zerotier", "VXLAN"],
     "stat": "",
