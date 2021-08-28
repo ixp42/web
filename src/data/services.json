@@ -1,0 +1,26 @@
+{
+  "as112": {
+    "name": {
+      "en": "AS112",
+      "zh": "AS112"
+    },
+    "icon": "mdi-dns",
+    "desc": {
+      "en": "The AS112 is an anycasted cluster of the nameservers that answer rDNS lookups for private network and link-local addresses, which can not be answered correctly. Providing negative answers reduces the load on the public DNS infrastructure.",
+      "zh": "AS112 是名称服务器的任播集群，用于回答无法正确回答的专用网络和链路本地地址的 rDNS 查找。 提供否定答案可减少公共 DNS 基础架构的负载。"
+    },
+    "img": ""
+  },
+  "dn42": {
+    "name": {
+      "en": "DN42 Interconnection",
+      "zh": "DN42 互联"
+    },
+    "icon": "mdi-lan",
+    "desc": {
+      "en": "This location allows the clearnet and the DN42 network to peering and exchange traffic.",
+      "zh": "此地点允许公网与 DN42 网络进行对等互联和流量交换。"
+    },
+    "img": ""
+  }
+}

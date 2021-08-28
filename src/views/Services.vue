@@ -15,6 +15,7 @@
 </template>
 <script>
 import regions from "@/data/regions.json";
+import services from "@/data/services.json";
 
 export default {
   computed: {
@@ -25,6 +26,7 @@ export default {
     }
   },
   data: () => ({
+    services: services,
     breadcrumbs: [
       {
         text: "Home",

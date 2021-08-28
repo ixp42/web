@@ -17,6 +17,17 @@
         :items="ixpmembers"
         :items-per-page="20"
       >
+        <template v-slot:item.name="{ item }">
+          {{ item.name }}
+          <v-chip
+            class="ml-2"
+            small
+            color="orange"
+            dark
+            v-if="region.sponsors.includes(parseInt(item.asnum))"
+            >{{ $t("sponsor") }}</v-chip
+          >
+        </template>
         <template v-slot:item.peering_policy="{ item }">
           <v-chip small :color="policy_color(item.peering_policy)" dark>{{
             item.peering_policy
@@ -76,8 +87,7 @@ export default {
     });
     this.$axios({
       method: "get",
-      url:
-        "https://export.ix42.org/members.json"
+      url: "https://export.ix42.org/members.json"
     }).then(response => {
       this.ixpmembers = getIXPMember(response.data, this.region.ixpid);
       this.loading = false;
@@ -123,3 +133,14 @@ export default {
 </script>
 
 <style lang="scss" scoped></style>
+
+<i18n>
+{
+  "en": {
+    "sponsor": "Sponsor"
+  },
+  "zh": {
+    "sponsor": "赞助者"
+  }
+}
+</i18n>

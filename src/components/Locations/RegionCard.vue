@@ -40,6 +40,8 @@
           </v-btn>
           <p class="mt-2">{{ $t("services") }}</p>
         </v-col>
+      </v-row>
+      <v-row>
         <v-col
           cols="12"
           class="text-center"
