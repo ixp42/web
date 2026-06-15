@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+    <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1366" height="666" xml:space="preserve">
+        <!-- <g>
+            <path cs="100,100" d="M0.5,0.5 L1365.5,0.5 L1365.5,665.5 L0.5,665.5 Z" fill="#505050" stroke="#000000" fill-opacity="0" stroke-width="1" stroke-opacity="1" class="amcharts-bg"></path>
+        </g> -->
+        <g>
+            <g transform="translate(167.20419494433722,235.13661406071023) scale(1)">
+                <g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(251.29353079507533,-211.8514656831086)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(278.2942077939029,-211.8514656831086)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(305.29488479273044,-211.8514656831086)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(359.2962387903856,-211.8514656831086)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(386.29691578921313,-211.8514656831086)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(413.2975927880407,-211.8514656831086)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(237.79830799801067,-188.74895387433529)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(264.79898499683827,-188.74895387433529)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(291.7996619956658,-188.74895387433529)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(318.80033899449336,-188.74895387433529)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(345.79078458862267,-188.74895387433529)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(372.7914615874502,-188.74895387433529)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(399.79213858627776,-188.74895387433529)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(224.29285379624775,-165.64644206556204)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(251.29353079507533,-165.64644206556204)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(278.2942077939029,-165.64644206556204)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(305.29488479273044,-165.64644206556204)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(332.295561791558,-165.64644206556204)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(359.2962387903856,-165.64644206556204)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(386.29691578921313,-165.64644206556204)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(413.2975927880407,-165.64644206556204)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Svalbard and Jan Mayen " transform="translate(548.2907463774802,-165.64644206556204)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(764.2961623681007,-165.64644206556204)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(237.79830799801067,-142.54393025678877)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(264.79898499683827,-142.54393025678877)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(291.7996619956658,-142.54393025678877)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(318.80033899449336,-142.54393025678877)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(345.79078458862267,-142.54393025678877)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(372.7914615874502,-142.54393025678877)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(399.79213858627776,-142.54393025678877)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(426.7928155851053,-142.54393025678877)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Svalbard and Jan Mayen " transform="translate(534.7955235804156,-142.54393025678877)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(777.7913851651654,-142.54393025678877)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(143.2908227997651,-119.44141844801553)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(251.29353079507533,-119.44141844801553)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(305.29488479273044,-119.44141844801553)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(332.295561791558,-119.44141844801553)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(359.2962387903856,-119.44141844801553)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(386.29691578921313,-119.44141844801553)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(413.2975927880407,-119.44141844801553)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(156.796277001528,-96.33890663924225)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(210.79763099918313,-96.33890663924225)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(237.79830799801067,-96.33890663924225)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(318.80033899449336,-96.33890663924225)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(345.79078458862267,-96.33890663924225)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(372.7914615874502,-96.33890663924225)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(399.79213858627776,-96.33890663924225)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(426.7928155851053,-96.33890663924225)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(750.7907081663377,-96.33890663924225)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(777.7913851651654,-96.33890663924225)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(804.7920621639929,-96.33890663924225)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(885.7940931604755,-96.33890663924225)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(912.7947701593031,-96.33890663924225)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(143.2908227997651,-73.236394830469)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(197.2921767974202,-73.236394830469)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(251.29353079507533,-73.236394830469)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(332.295561791558,-73.236394830469)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(359.2962387903856,-73.236394830469)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(386.29691578921313,-73.236394830469)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(413.2975927880407,-73.236394830469)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(737.2954853692731,-73.236394830469)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(764.2961623681007,-73.236394830469)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(791.2968393669282,-73.236394830469)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(818.2975163657558,-73.236394830469)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(845.2981933645833,-73.236394830469)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="United States " transform="translate(48.79356900621775,-50.123651616997435)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(156.796277001528,-50.123651616997435)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(183.79695400035556,-50.123651616997435)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(210.79763099918313,-50.123651616997435)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(237.79830799801067,-50.123651616997435)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(264.79898499683827,-50.123651616997435)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(345.79078458862267,-50.123651616997435)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(372.7914615874502,-50.123651616997435)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(399.79213858627776,-50.123651616997435)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Norway " transform="translate(561.7962005792432,-50.123651616997435)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(723.8002625722085,-50.123651616997435)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(750.7907081663377,-50.123651616997435)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(777.7913851651654,-50.123651616997435)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(804.7920621639929,-50.123651616997435)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(831.7927391628205,-50.123651616997435)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(858.793416161648,-50.123651616997435)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(885.7940931604755,-50.123651616997435)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(912.7947701593031,-50.123651616997435)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(939.7954471581306,-50.123651616997435)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="United States " transform="translate(35.298346209153124,-27.021139808224174)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="United States " transform="translate(62.29902320798069,-27.021139808224174)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(89.29970020680825,-27.021139808224174)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(116.30037720563581,-27.021139808224174)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(143.2908227997651,-27.021139808224174)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(170.29149979859264,-27.021139808224174)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(197.2921767974202,-27.021139808224174)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(224.29285379624775,-27.021139808224174)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(251.29353079507533,-27.021139808224174)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(278.2942077939029,-27.021139808224174)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(332.295561791558,-27.021139808224174)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(359.2962387903856,-27.021139808224174)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(386.29691578921313,-27.021139808224174)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Sweden " transform="translate(548.2907463774802,-27.021139808224174)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(575.2914233763078,-27.021139808224174)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(602.2921003751353,-27.021139808224174)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(629.2927773739628,-27.021139808224174)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(656.2934543727905,-27.021139808224174)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(683.294131371618,-27.021139808224174)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(710.2948083704456,-27.021139808224174)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(737.2954853692731,-27.021139808224174)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(764.2961623681007,-27.021139808224174)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(791.2968393669282,-27.021139808224174)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(818.2975163657558,-27.021139808224174)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(845.2981933645833,-27.021139808224174)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(872.298870363411,-27.021139808224174)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(899.2995473622385,-27.021139808224174)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(926.3002243610662,-27.021139808224174)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(953.3009013598937,-27.021139808224174)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(980.291346954023,-27.021139808224174)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(1007.2920239528505,-27.021139808224174)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="United States " transform="translate(48.79356900621775,-3.918627999450912)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="United States " transform="translate(75.79424600504531,-3.918627999450912)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(102.79492300387288,-3.918627999450912)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(129.79560000270044,-3.918627999450912)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(156.796277001528,-3.918627999450912)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(183.79695400035556,-3.918627999450912)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(210.79763099918313,-3.918627999450912)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(264.79898499683827,-3.918627999450912)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(291.7996619956658,-3.918627999450912)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(345.79078458862267,-3.918627999450912)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Iceland " transform="translate(426.7928155851053,-3.918627999450912)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Sweden " transform="translate(534.7955235804156,-3.918627999450912)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Finland " transform="translate(561.7962005792432,-3.918627999450912)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(615.7975545768983,-3.918627999450912)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(642.7982315757258,-3.918627999450912)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(669.7989085745534,-3.918627999450912)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(696.7995855733809,-3.918627999450912)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(723.8002625722085,-3.918627999450912)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(750.7907081663377,-3.918627999450912)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(777.7913851651654,-3.918627999450912)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(804.7920621639929,-3.918627999450912)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(831.7927391628205,-3.918627999450912)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(858.793416161648,-3.918627999450912)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(885.7940931604755,-3.918627999450912)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(912.7947701593031,-3.918627999450912)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(939.7954471581306,-3.918627999450912)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(966.7961241569583,-3.918627999450912)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(993.7968011557859,-3.918627999450912)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(1020.7974781546135,-3.918627999450912)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="United States " transform="translate(35.298346209153124,19.18388380932235)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="United States " transform="translate(62.29902320798069,19.18388380932235)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(89.29970020680825,19.18388380932235)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(116.30037720563581,19.18388380932235)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(143.2908227997651,19.18388380932235)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(170.29149979859264,19.18388380932235)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(197.2921767974202,19.18388380932235)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(278.2942077939029,19.18388380932235)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greenland " transform="translate(359.2962387903856,19.18388380932235)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Norway " transform="translate(521.300300783351,19.18388380932235)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Finland " transform="translate(548.2907463774802,19.18388380932235)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(575.2914233763078,19.18388380932235)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(602.2921003751353,19.18388380932235)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(629.2927773739628,19.18388380932235)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(656.2934543727905,19.18388380932235)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(683.294131371618,19.18388380932235)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(710.2948083704456,19.18388380932235)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(737.2954853692731,19.18388380932235)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(764.2961623681007,19.18388380932235)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(791.2968393669282,19.18388380932235)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(818.2975163657558,19.18388380932235)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(845.2981933645833,19.18388380932235)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(872.298870363411,19.18388380932235)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(899.2995473622385,19.18388380932235)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(926.3002243610662,19.18388380932235)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(953.3009013598937,19.18388380932235)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(129.79560000270044,42.28639561809561)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(156.796277001528,42.28639561809561)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(183.79695400035556,42.28639561809561)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(210.79763099918313,42.28639561809561)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(291.7996619956658,42.28639561809561)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Latvia " transform="translate(561.7962005792432,42.28639561809561)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(588.7968775780707,42.28639561809561)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(615.7975545768983,42.28639561809561)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(642.7982315757258,42.28639561809561)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(669.7989085745534,42.28639561809561)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(696.7995855733809,42.28639561809561)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(723.8002625722085,42.28639561809561)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(750.7907081663377,42.28639561809561)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(777.7913851651654,42.28639561809561)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(804.7920621639929,42.28639561809561)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(831.7927391628205,42.28639561809561)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(858.793416161648,42.28639561809561)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(939.7954471581306,42.28639561809561)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(143.2908227997651,65.38890742686887)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(170.29149979859264,65.38890742686887)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(197.2921767974202,65.38890742686887)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(224.29285379624775,65.38890742686887)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(251.29353079507533,65.38890742686887)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(278.2942077939029,65.38890742686887)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(305.29488479273044,65.38890742686887)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Germany " transform="translate(521.300300783351,65.38890742686887)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Poland " transform="translate(548.2907463774802,65.38890742686887)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Ukraine " transform="translate(575.2914233763078,65.38890742686887)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(602.2921003751353,65.38890742686887)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(629.2927773739628,65.38890742686887)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(656.2934543727905,65.38890742686887)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Kazakhstan " transform="translate(683.294131371618,65.38890742686887)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Kazakhstan " transform="translate(710.2948083704456,65.38890742686887)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(737.2954853692731,65.38890742686887)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(764.2961623681007,65.38890742686887)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(791.2968393669282,65.38890742686887)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(818.2975163657558,65.38890742686887)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="China " transform="translate(845.2981933645833,65.38890742686887)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(872.298870363411,65.38890742686887)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="United States " transform="translate(156.796277001528,88.49141923564213)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="United States " transform="translate(183.79695400035556,88.49141923564213)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="United States " transform="translate(210.79763099918313,88.49141923564213)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="United States " transform="translate(237.79830799801067,88.49141923564213)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Canada " transform="translate(264.79898499683827,88.49141923564213)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="United States " transform="translate(291.7996619956658,88.49141923564213)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="France " transform="translate(480.79416958276045,88.49141923564213)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Switzerland " transform="translate(507.79484658158805,88.49141923564213)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Hungary " transform="translate(534.7955235804156,88.49141923564213)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Romania " transform="translate(561.7962005792432,88.49141923564213)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Ukraine " transform="translate(588.7968775780707,88.49141923564213)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Russia " transform="translate(615.7975545768983,88.49141923564213)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Kazakhstan " transform="translate(642.7982315757258,88.49141923564213)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Kazakhstan " transform="translate(669.7989085745534,88.49141923564213)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Kazakhstan " transform="translate(696.7995855733809,88.49141923564213)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Kazakhstan " transform="translate(723.8002625722085,88.49141923564213)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Mongolia " transform="translate(750.7907081663377,88.49141923564213)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Mongolia " transform="translate(777.7913851651654,88.49141923564213)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Mongolia " transform="translate(804.7920621639929,88.49141923564213)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="China " transform="translate(831.7927391628205,88.49141923564213)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="China " transform="translate(858.793416161648,88.49141923564213)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="United States " transform="translate(143.2908227997651,111.59393104441538)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="United States " transform="translate(170.29149979859264,111.59393104441538)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="United States " transform="translate(197.2921767974202,111.59393104441538)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="United States " transform="translate(224.29285379624775,111.59393104441538)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="United States " transform="translate(251.29353079507533,111.59393104441538)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="United States " transform="translate(278.2942077939029,111.59393104441538)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Spain " transform="translate(467.2989467856958,111.59393104441538)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Greece " transform="translate(548.2907463774802,111.59393104441538)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Turkey " transform="translate(575.2914233763078,111.59393104441538)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Turkey " transform="translate(602.2921003751353,111.59393104441538)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Turkmenistan " transform="translate(656.2934543727905,111.59393104441538)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Uzbekistan " transform="translate(683.294131371618,111.59393104441538)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="China " transform="translate(710.2948083704456,111.59393104441538)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="China " transform="translate(737.2954853692731,111.59393104441538)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="China " transform="translate(764.2961623681007,111.59393104441538)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="China " transform="translate(791.2968393669282,111.59393104441538)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="China " transform="translate(818.2975163657558,111.59393104441538)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="North Korea " transform="translate(845.2981933645833,111.59393104441538)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="United States " transform="translate(156.796277001528,134.69644285318867)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="United States " transform="translate(183.79695400035556,134.69644285318867)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="United States " transform="translate(210.79763099918313,134.69644285318867)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="United States " transform="translate(237.79830799801067,134.69644285318867)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Morocco " transform="translate(480.79416958276045,134.69644285318867)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Algeria " transform="translate(507.79484658158805,134.69644285318867)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Lebanon " transform="translate(588.7968775780707,134.69644285318867)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Iraq " transform="translate(615.7975545768983,134.69644285318867)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Iran " transform="translate(642.7982315757258,134.69644285318867)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Afghanistan " transform="translate(669.7989085745534,134.69644285318867)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Pakistan " transform="translate(696.7995855733809,134.69644285318867)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="China " transform="translate(723.8002625722085,134.69644285318867)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="China " transform="translate(750.7907081663377,134.69644285318867)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="China " transform="translate(777.7913851651654,134.69644285318867)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="China " transform="translate(804.7920621639929,134.69644285318867)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Mexico " transform="translate(170.29149979859264,157.79895466196191)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Mexico " transform="translate(197.2921767974202,157.79895466196191)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="United States " transform="translate(251.29353079507533,157.79895466196191)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Algeria " transform="translate(467.2989467856958,157.79895466196191)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Algeria " transform="translate(494.2996237845234,157.79895466196191)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Libya " transform="translate(521.300300783351,157.79895466196191)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Libya " transform="translate(548.2907463774802,157.79895466196191)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Egypt " transform="translate(575.2914233763078,157.79895466196191)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Saudi Arabia " transform="translate(602.2921003751353,157.79895466196191)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Iran " transform="translate(656.2934543727905,157.79895466196191)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Pakistan " transform="translate(683.294131371618,157.79895466196191)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="India " transform="translate(710.2948083704456,157.79895466196191)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Nepal " transform="translate(737.2954853692731,157.79895466196191)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Myanmar " transform="translate(764.2961623681007,157.79895466196191)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="China " transform="translate(791.2968393669282,157.79895466196191)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="China " transform="translate(818.2975163657558,157.79895466196191)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Mexico " transform="translate(183.79695400035556,180.9014664707352)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Cuba " transform="translate(264.79898499683827,180.9014664707352)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Mauritania " transform="translate(453.79349258393285,180.9014664707352)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Mali " transform="translate(480.79416958276045,180.9014664707352)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Niger " transform="translate(507.79484658158805,180.9014664707352)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Chad " transform="translate(534.7955235804156,180.9014664707352)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Sudan " transform="translate(561.7962005792432,180.9014664707352)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Sudan " transform="translate(588.7968775780707,180.9014664707352)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Saudi Arabia " transform="translate(615.7975545768983,180.9014664707352)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Saudi Arabia " transform="translate(642.7982315757258,180.9014664707352)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="India " transform="translate(696.7995855733809,180.9014664707352)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="India " transform="translate(723.8002625722085,180.9014664707352)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Lao People's Democratic Republic " transform="translate(777.7913851651654,180.9014664707352)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="China " transform="translate(804.7920621639929,180.9014664707352)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Guinea-Bissau " transform="translate(440.2982697868682,204.00397827950843)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Mali " transform="translate(467.2989467856958,204.00397827950843)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Niger " transform="translate(494.2996237845234,204.00397827950843)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Nigeria " transform="translate(521.300300783351,204.00397827950843)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Chad " transform="translate(548.2907463774802,204.00397827950843)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Sudan " transform="translate(575.2914233763078,204.00397827950843)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Ethiopia " transform="translate(602.2921003751353,204.00397827950843)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="India " transform="translate(710.2948083704456,204.00397827950843)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Cambodia " transform="translate(791.2968393669282,204.00397827950843)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Philippines " transform="translate(845.2981933645833,204.00397827950843)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Colombia " transform="translate(264.79898499683827,227.1064900882817)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Venezuela " transform="translate(291.7996619956658,227.1064900882817)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Guyana " transform="translate(318.80033899449336,227.1064900882817)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Central African Republic " transform="translate(534.7955235804156,227.1064900882817)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Democratic Republic of Congo " transform="translate(561.7962005792432,227.1064900882817)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Kenya " transform="translate(588.7968775780707,227.1064900882817)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Somalia " transform="translate(615.7975545768983,227.1064900882817)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Malaysia " transform="translate(777.7913851651654,227.1064900882817)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Peru " transform="translate(278.2942077939029,250.20900189705497)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Brazil " transform="translate(305.29488479273044,250.20900189705497)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Brazil " transform="translate(332.295561791558,250.20900189705497)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Brazil " transform="translate(359.2962387903856,250.20900189705497)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Republic of Congo " transform="translate(521.300300783351,250.20900189705497)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Democratic Republic of Congo " transform="translate(548.2907463774802,250.20900189705497)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Tanzania " transform="translate(575.2914233763078,250.20900189705497)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Indonesia " transform="translate(872.298870363411,250.20900189705497)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Papua New Guinea " transform="translate(899.2995473622385,250.20900189705497)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Peru " transform="translate(264.79898499683827,273.31151370582825)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Bolivia " transform="translate(291.7996619956658,273.31151370582825)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Brazil " transform="translate(318.80033899449336,273.31151370582825)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Brazil " transform="translate(345.79078458862267,273.31151370582825)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Brazil " transform="translate(372.7914615874502,273.31151370582825)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Angola " transform="translate(534.7955235804156,273.31151370582825)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Zambia " transform="translate(561.7962005792432,273.31151370582825)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Mozambique " transform="translate(588.7968775780707,273.31151370582825)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Bolivia " transform="translate(305.29488479273044,296.41402551460146)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Brazil " transform="translate(332.295561791558,296.41402551460146)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Brazil " transform="translate(359.2962387903856,296.41402551460146)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Botswana " transform="translate(548.2907463774802,296.41402551460146)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Zimbabwe " transform="translate(575.2914233763078,296.41402551460146)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Australia " transform="translate(845.2981933645833,296.41402551460146)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Australia " transform="translate(872.298870363411,296.41402551460146)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Australia " transform="translate(899.2995473622385,296.41402551460146)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Argentina " transform="translate(291.7996619956658,319.5165373233748)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Paraguay " transform="translate(318.80033899449336,319.5165373233748)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Brazil " transform="translate(345.79078458862267,319.5165373233748)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Namibia " transform="translate(534.7955235804156,319.5165373233748)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="South Africa " transform="translate(561.7962005792432,319.5165373233748)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Australia " transform="translate(831.7927391628205,319.5165373233748)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Australia " transform="translate(858.793416161648,319.5165373233748)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Australia " transform="translate(885.7940931604755,319.5165373233748)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Australia " transform="translate(912.7947701593031,319.5165373233748)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Argentina " transform="translate(305.29488479273044,342.619049132148)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Uruguay " transform="translate(332.295561791558,342.619049132148)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="South Africa " transform="translate(548.2907463774802,342.619049132148)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Australia " transform="translate(818.2975163657558,342.619049132148)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Australia " transform="translate(899.2995473622385,342.619049132148)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Argentina " transform="translate(291.7996619956658,365.7215609409213)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Chile " transform="translate(278.2942077939029,388.8240727496945)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                    <g role="menuitem" aria-label="Falkland Islands " transform="translate(318.80033899449336,411.9265845584678)">
+                        <path cs="100,100" d="M12.5,7.5 L0.5,14.5 L-11.5,7.5 L-11.5,-6.5 L0.5,-13.5 L12.5,-6.5 Z" fill="#ffffff" stroke="#ffffff" fill-opacity="0.51" stroke-width="0.01" stroke-opacity="0.51" transform="translate(0,0) scale(1)" class="amcharts-map-image"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </svg>

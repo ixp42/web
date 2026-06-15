@@ -1,0 +1,123 @@
+[
+  {
+    "id": "nedifinita-ix-txg",
+    "name": "Nedifinita IX TXG",
+    "url": "https://ix.nedifinita.com",
+    "support": "dn42",
+    "description": "Zerotier Only",
+    "rs": [
+      {
+        "asn": 4204549999,
+        "ipv6": "fd10:127:42:ffff::1",
+        "lg": "https://ix.nedifinita.com",
+        "policy": "open_auto"
+      }
+    ]
+  },
+  {
+    "id": "yukisino-ix-frankfurt",
+    "name": "Yukisino IX DE Frankfurt",
+    "url": "https://yukisino.sess.moe",
+    "support": "dn42",
+    "description": "Free VM",
+    "rs": [
+      {
+        "asn": 4242422465,
+        "ipv6": "fe80::1266:6aff:fe24:9807",
+        "lg": "https://lg.yukisino.dn42",
+        "policy": "open_manual",
+        "description": "Peer & Downstream Routes Only"
+      }
+    ]
+  },
+  {
+    "id": "tyix",
+    "name": "TYIX",
+    "url": "https://tyo.cxix.net",
+    "support": "vlan",
+    "description": "Free VM",
+    "rs": []
+  },
+  {
+    "id": "stuix",
+    "name": "STUIX",
+    "url": "https://stuix.io",
+    "support": "vlan",
+    "description": "Reselled VM Available",
+    "rs": []
+  },
+  {
+    "id": "cowix-txg",
+    "name": "CowIX TXG",
+    "url": "",
+    "support": "dn42",
+    "description": "Free VM",
+    "rs": [
+      {
+        "asn": 4239998964,
+        "ipv6": "fe80::3999:ffff",
+        "ipv4": "",
+        "policy": "open_manual"
+      }
+    ]
+  },
+  {
+    "id": "kcix",
+    "name": "KCIX",
+    "url": "https://kcix.net",
+    "rs": [
+      {
+        "asn": 207268,
+        "ipv4": "206.51.7.75",
+        "ipv6": "2001:504:1b:1::75",
+        "port": 42179,
+        "policy": "wip",
+        "description": "Peer & Downstream Routes Only"
+      }
+    ]
+  },
+  {
+    "id": "kleyrex",
+    "name": "KleyReX",
+    "rs": [
+      {
+        "asn": 207268,
+        "ipv4": "193.189.83.163",
+        "ipv6": "2001:7f8:33::a120:7268:1",
+        "port": 42179,
+        "policy": "wip",
+        "description": "Peer & Downstream Routes Only"
+      }
+    ]
+  },
+  {
+    "id": "zxix-hk",
+    "name": "ZXIX Hong Kong",
+    "support": "allowed",
+    "description": "Free VM [IANA ASN required]",
+    "rs": [
+      {
+        "asn": 207268,
+        "ipv4": null,
+        "ipv6": "2406:840:1f:1000:0:20:7268:2",
+        "port": 42179,
+        "policy": "wip",
+        "description": "Peer & Downstream Routes Only"
+      }
+    ]
+  },
+  {
+    "id": "evix",
+    "name": "EVIX",
+    "rs": [
+      {
+        "asn": 207268,
+        "ipv4": "206.81.104.59",
+        "ipv6": null,
+        "port": 42179,
+        "policy": "wip",
+        "description": "Peer & Downstream Routes Only"
+      }
+    ]
+  }
+]

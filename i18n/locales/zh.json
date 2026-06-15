@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "title": "ix42 - overlay 互联网交换中心",
+    "join": "部署 RS",
+    "connect": "接入网络",
+    "policy": "政策与要求",
+    "home": "首页"
+  },
+  "hero": {
+    "title": "通过我们连接数以千计的分布式网络！",
+    "subtitle": "ix42: 连接 dn42 网络的 Overlay 交换中心",
+    "description": "ix42 并非物理意义上的 IX。它依托于现有的 IX 基础设施，使用独立的路由服务器 (RS) 来交换 dn42 流量，致力于提供无缝、高效的 dn42 互联体验。",
+    "connect": "立即接入",
+    "join": "加入我们"
+  },
+  "table": {
+    "title": "支持 dn42 的 IX 与 RS",
+    "headers": {
+      "name": "名称",
+      "asn": "RS ASN",
+      "ipv4": "IPv4 地址",
+      "ipv6": "IPv6 地址",
+      "port": "端口",
+      "policy": "Peering 策略",
+      "lg": "Looking Glass",
+      "desc": "说明"
+    }
+  },
+  "policy": {
+    "open_auto": "开放 (自动)",
+    "open_manual": "开放 (手动)",
+    "ask": "需申请",
+    "wip": "施工中",
+    "closed": "关闭"
+  },
+  "support": {
+    "vlan": "dn42 VLAN",
+    "allowed": "支持 dn42",
+    "dn42": "dn42 IX"
+  },
+  "common": {
+    "standard": "标准"
+  },
+  "footer": {
+    "description": "连接 dn42 各网络和自治系统的 Overlay 交换中心。",
+    "rights": "保留所有权利。"
+  },
+  "connect": {
+    "title": "接入网络",
+    "subtitle": "将您的 dn42 网络连接至 ix42 路由服务器",
+    "steps": {
+      "1_title": "验证连通性",
+      "1_desc": "检查支持的 IX 列表，确保您在底层 IX 中拥有可用端口。Ping 测试对应的 ix42 RS IP 以验证 L2/L3 层面的可达性。",
+      "2_title": "准备路由",
+      "2_desc": "确保您拥有有效的 dn42 ASN，且您的 IP 前缀已在 dn42 注册表中正确注册。",
+      "3_title": "配置 BGP",
+      "3_desc": "使用 RS 的 IP 和 ASN 配置您的 BGP 守护进程。实施严格的入站与出站过滤规则，切勿宣告默认路由。",
+      "4_title": "建立会话",
+      "4_desc": "启动 BGP 会话，并等待您的路由在 overlay 交换中心网络中传播。"
+    }
+  },
+  "join": {
+    "title": "部署 RS",
+    "subtitle": "在您所在的 IX 中部署一台 ix42 路由服务器",
+    "steps": {
+      "1_title": "前提条件",
+      "1_desc": "您需要接入一个具有多名 dn42 参与者的 IX，并有能力为 RS 托管一台专用的虚拟机或容器。",
+      "2_title": "分配 ASN",
+      "2_desc": "为该 Route Server 分配一个 ASN (可以是私有 ASN，或是专门用于 IX 服务的 dn42 ASN)。",
+      "3_title": "配置 RS",
+      "3_desc": "使用 Arouteserver 等工具配置健壮的 BGP 守护进程 (如 BIRD)。确保强制执行 dn42 ROA 检查、严格的路由过滤以及最大前缀数限制。",
+      "4_title": "提交信息",
+      "4_desc": "将您的详细信息提交给 ix42 管理员（包括 IX 名称、对 dn42 的支持情况、URL、是否官方支持、RS ASN、IP、端口、策略及 LG）。"
+    },
+    "formats": "查看需要提交的信息格式",
+    "contact": "发送邮件联系我们",
+    "done_title": "完成！欢迎加入 ix42",
+    "done_desc": "现在，您可以向 dn42 网络中的朋友分享您新接入的 IX 与 RS 节点了。"
+  },
+  "policy_page": {
+    "title": "政策与要求",
+    "language_notice": "为保证政策条款的准确性与约束力，本页面文本仅提供英文版本。"
+  }
+}

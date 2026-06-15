@@ -1,0 +1,111 @@
+{
+  "nav": {
+    "title": "ix42 - overlay Internet Exchange",
+    "join": "Deploy RS",
+    "connect": "Get Connected",
+    "policy": "Policies",
+    "home": "Home"
+  },
+  "hero": {
+    "title": "Connect thousands of distributed networks through us!",
+    "subtitle": "ix42: Overlay eXchange connecting dn42 networks",
+    "description": "ix42 is not a physical IX. It leverages existing IX infrastructure with dedicated route servers (RS) to exchange dn42 traffic, aiming to provide a seamless and efficient dn42 interconnection experience.",
+    "connect": "Connect Now",
+    "join": "Join Us"
+  },
+  "table": {
+    "title": "dn42 Supported IX & RS",
+    "headers": {
+      "name": "Name",
+      "asn": "RS ASN",
+      "ipv4": "IPv4 Address",
+      "ipv6": "IPv6 Address",
+      "port": "Port",
+      "policy": "Peering Policy",
+      "lg": "Looking Glass",
+      "desc": "Description"
+    }
+  },
+  "policy": {
+    "open_auto": "Open (Auto)",
+    "open_manual": "Open (Manual)",
+    "ask": "Ask",
+    "wip": "WIP",
+    "closed": "Closed"
+  },
+  "support": {
+    "vlan": "dn42 VLAN",
+    "allowed": "dn42 Allowed",
+    "dn42": "dn42 IX"
+  },
+  "common": {
+    "standard": "Standard"
+  },
+  "footer": {
+    "description": "Overlay eXchange interconnects dn42 networks and autonomous systems.",
+    "rights": "All Rights Reserved."
+  },
+  "connect": {
+    "title": "Get Connected",
+    "subtitle": "Connect your dn42 network to ix42 Route Servers",
+    "steps": {
+      "1_title": "Verify Connectivity",
+      "1_desc": "Check the supported IX list to ensure you have an active port in the underlying IX. Ping the ix42 RS IP to verify L2/L3 reachability.",
+      "2_title": "Prepare Routing",
+      "2_desc": "Ensure you have a valid dn42 ASN and your IP prefixes are properly registered in the dn42 registry.",
+      "3_title": "Configure BGP",
+      "3_desc": "Set up your BGP daemon with the RS IP and ASN. Implement strict inbound and outbound filtering. Do not announce a default route.",
+      "4_title": "Establish Session",
+      "4_desc": "Bring up the BGP session and wait for your routes to propagate across the overlay exchange."
+    }
+  },
+  "join": {
+    "title": "Be Part of ix42",
+    "subtitle": "Deploy an ix42 Route Server in your connected IX",
+    "steps": {
+      "1_title": "Prerequisites",
+      "1_desc": "You need access to an IX with multiple dn42 participants and the capability to host a dedicated VM or container for the RS.",
+      "2_title": "Assign an ASN",
+      "2_desc": "Allocate an ASN for the Route Server (either a private ASN or a dedicated dn42 ASN for IX services).",
+      "3_title": "Configure the RS",
+      "3_desc": "Set up a robust BGP daemon (e.g., BIRD) using tools like Arouteserver. Enforce dn42 ROA checks, strict filtering, and max prefix limits.",
+      "4_title": "Submit Information",
+      "4_desc": "Submit your RS details (IX name, dn42 support context, URL, official support status, RS ASN, IPs, port, peering policy, LG) to ix42 admins."
+    },
+    "formats": "View Info Format for Submission",
+    "contact": "Contact Us via Email",
+    "done_title": "Done! Welcome to ix42",
+    "done_desc": "Now you can share your newly connected IX/RS with your friends in the dn42 network."
+  },
+  "policy_page": {
+    "title": "Policies & Requirements",
+    "language_notice": "This page is only available in English to ensure the accuracy of the policy terms.",
+    "disclaimer": "Disclaimer",
+    "disclaimer_text1": "ix42 is an information directory and community-driven overlay network. ix42 ONLY collects and publishes information. We DO NOT actually operate or manage the Internet Exchange Points (IXPs) or Route Servers (RS) listed on this website.",
+    "disclaimer_text2": "The listed RSes are voluntarily operated by independent participants within the respective IXPs. The underlying IXP operators bear no responsibility or liability for the operation, traffic, or any issues arising from the use of ix42 services. By connecting to any listed RS, you acknowledge and agree to this.",
+    "general_title": "General Policies",
+    "general_list": [
+      "The primary purpose of ix42 is to facilitate dn42 traffic exchange over existing IANA IXPs.",
+      "Traffic exchanged MUST be strictly dn42 and associated network traffic. Do NOT route public IANA network traffic over ix42 peering sessions.",
+      "Connected networks must adhere to these rules. Failure to comply can result in immediate disconnection by the respective RS operators.",
+      "ix42 does not manage, coordinate, or get involved in relationships between connected members and will not act as a third party in any agreement, mediation, or dispute.",
+      "The peering fabric may not be used in a manner that disrupts anyone's business or infrastructure."
+    ],
+    "peering_title": "Peering Requirements",
+    "peering_list": [
+      "You must have a valid dn42 ASN.",
+      "The peering candidate must provide a 24-hour contact point, kept updated in the dn42 registry.",
+      "Only announce prefixes you are authorized to announce (registered in the dn42 registry).",
+      "Members are allowed to use multiple ASNs as long as they share a common contact point.",
+      "For a peer established through a tunnel, the Round-Trip Time between the peer and the RS should ideally not exceed 40ms."
+    ],
+    "tech_title": "Technical Requirements",
+    "tech_list": [
+      "Establish BGP sessions using the configured IPs. Only BGPv4 / MP-BGP is allowed as a routing protocol.",
+      "IPv4 and IPv6 should be configured in separate BGP sessions or using MP-BGP depending on the RS setup.",
+      "Do not point default routes to the RS.",
+      "Do not use the RS as a next-hop gateway. The next-hop should remain the original peer's IP.",
+      "The use of MD5 and/or GTSM (TTL security) to secure BGP sessions is recommended if supported by the RS."
+    ]
+  }
+}
