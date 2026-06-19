@@ -1,5 +1,21 @@
 [
   {
+    "id": "poema-ix",
+    "name": "Poema IX",
+    "url": "https://ix.poema.eu.org",
+    "support": "allowed",
+    "description": "Tunnel / Reselled VM Available",
+    "rs": [
+      {
+        "asn": 199594,
+        "ipv6": "2404:f4c0:f70e:1980::3:1 / fe80::1980:3:1",
+        "lg": "https://ixlg.kskb.eu.org",
+        "policy": "open_auto",
+        "description": "IANA / DN42 Mixed"
+      }
+    ]
+  },
+  {
     "id": "nedifinita-ix-txg",
     "name": "Nedifinita IX TXG",
     "url": "https://ix.nedifinita.com",
