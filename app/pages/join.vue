@@ -70,17 +70,39 @@
         <p class="text-body-1 text-medium-emphasis mb-2">
           {{ $t("join.steps.4_desc") }}
         </p>
-        <v-btn
-          class="mb-2 mr-2"
-          href="https://github.com/ixp42/web"
-          disabled
-          variant="tonal"
-          color="primary"
-          rounded="pill"
-          prepend-icon="mdi-code-json"
-        >
-          {{ $t("join.formats") }}
-        </v-btn>
+        <v-dialog max-width="1200">
+          <template v-slot:activator="{ props: activatorProps }">
+            <v-btn
+              v-bind="activatorProps"
+              class="mb-2 mr-2"
+              variant="tonal"
+              color="primary"
+              rounded="pill"
+              prepend-icon="mdi-code-json"
+            >
+              {{ $t("join.formats") }}
+            </v-btn>
+          </template>
+
+          <v-card title="Examples">
+            <v-card-text>
+              <v-row>
+                <v-col cols="6">
+                  <v-code class="overflow-y-auto">
+                    <v-chip text="schema" />
+                    <pre v-text="ix_schema" />
+                  </v-code>
+                </v-col>
+                <v-col cols="6">
+                  <v-code>
+                    <v-chip text="example" />
+                    <pre v-text="ix_example" />
+                  </v-code>
+                </v-col>
+              </v-row>
+            </v-card-text>
+          </v-card>
+        </v-dialog>
         <v-btn
           class="mb-2"
           href="mailto:support@ix42.org"
@@ -107,3 +129,8 @@
     </v-timeline>
   </v-container>
 </template>
+
+<script setup lang="ts">
+import ix_schema from "@/assets/data/ix.schema.json";
+import ix_example from "@/assets/data/ix.example.json";
+</script>

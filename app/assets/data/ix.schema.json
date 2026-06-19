@@ -1,0 +1,62 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    },
+    "support": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "rs": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "asn": {
+              "type": "number"
+            },
+            "ipv4": {
+              "type": "string"
+            },
+            "ipv6": {
+              "type": "string"
+            },
+            "port": {
+              "type": "number"
+            },
+            "lg": {
+              "type": "string"
+            },
+            "policy": {
+              "type": "string"
+            },
+            "features": {
+              "type": "object",
+              "properties": {
+                "mpbgp": {
+                  "type": "boolean"
+                }
+              }
+            },
+            "description": {
+              "type": "string"
+            }
+          },
+          "required": ["asn", "policy"]
+        }
+      ]
+    }
+  },
+  "required": ["id", "name", "rs"]
+}

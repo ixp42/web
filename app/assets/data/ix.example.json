@@ -1,0 +1,28 @@
+{
+  "id": "my-pretty-ix",
+  "name": "My Pretty IX",
+  "url": "https://a-good-domain.example.com",
+  "support": "vlan",
+  "description": "Free VM / Tunnel / Physical",
+  "rs": [
+    {
+      "asn": 23456,
+      "ipv4": "127.0.0.1",
+      "ipv6": "::1",
+      "lg": "https://lg.a-good-domain.example.com",
+      "policy": "open_manual",
+      "features": {
+        "mpbgp": true
+      },
+      "description": "Allow ALL routes"
+    },
+    {
+      "asn": 23456,
+      "ipv4": "127.0.0.2",
+      "ipv6": "::2",
+      "lg": "https://lg.a-good-domain.example.com",
+      "policy": "open_auto",
+      "description": "Allow PEER routes"
+    }
+  ]
+}
